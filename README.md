@@ -40,6 +40,6 @@ The MyQttHub server has been chosen as the MQTT broker to have full control of a
 Apart from authentication on the application level, TLS for each client has been enabled for transport encryption
 
 #### Current limitations
-The developers of the project could not get a hold on to the soil moisture sensor. 
+The developer of the project could not get a hold on to the soil moisture sensor. 
 The data for soil moisture levels have been auto generated. 
 However, the logic for it has been implemented and therefore making it easy to add soil moisture sensors to sensor devices in the future
