@@ -1,0 +1,6 @@
+geopy==2.2.0
+paho-mqtt==1.6.1
+requests==2.27.1
+pandas==1.4.2
+matplotlib==3.5.1
+sense-hat==2.2.0
